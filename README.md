@@ -1,6 +1,7 @@
 # chatsapp
 
 A new Flutter project.
+Chat App with Authentication , Cloud Firestore for Database.
 
 ## Getting Started
 
